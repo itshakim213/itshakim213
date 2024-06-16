@@ -27,6 +27,6 @@ I'm a passionate developer with a diverse skill set in various programming langu
 ### 📫 How to Reach Me:
 
 - sidali.ikh@outlook.com
-- [[Your LinkedIn Profile]](https://www.linkedin.com/in/sid-ali-ikhlef99/)
+- [[My LinkedIn Profile]](https://www.linkedin.com/in/sid-ali-ikhlef99/)
 
 Feel free to check out my repositories and projects. Let's connect and collaborate!
