@@ -9,7 +9,7 @@ I'm a passionate developer with a diverse skill set in various programming langu
 - **Mobile Development**: React Native
 - **Desktop Development**: Electron.js
 - **Game Development**: Unity
-- **Databases**: PostgreSQL, MySQL
+- **Databases**: PostgreSQL, MySQL, SQLite, MongoDB
 
 ### 🌱 Currently Exploring:
 
